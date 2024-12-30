@@ -1,4 +1,4 @@
-# Student Details:
+# Student Details
     Name: Hassan SHEIKH
     ID: 21290123
 
@@ -14,5 +14,5 @@
 or 
 
 ```Shell
-    npm ru dev
+    npm run dev
 ```
